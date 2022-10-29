@@ -1,0 +1,11 @@
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi_çift_mi.Form1.resources
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi_çift_mi.Properties.Resources.resources
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\bin\Debug\takmi çift mi.exe.config
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\bin\Debug\takmi çift mi.exe
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\bin\Debug\takmi çift mi.pdb
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.exe
+C:\Users\Mehmet Emin\source\repos\takmi çift mi\takmi çift mi\obj\Debug\takmi çift mi.pdb
