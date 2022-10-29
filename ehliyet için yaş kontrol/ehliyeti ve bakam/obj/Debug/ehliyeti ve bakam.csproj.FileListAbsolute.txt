@@ -1,0 +1,11 @@
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti_ve_bakam.Form1.resources
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti_ve_bakam.Properties.Resources.resources
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\bin\Debug\ehliyeti ve bakam.exe.config
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\bin\Debug\ehliyeti ve bakam.exe
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\bin\Debug\ehliyeti ve bakam.pdb
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.exe
+C:\Users\Mehmet Emin\source\repos\ehliyeti ve bakam\ehliyeti ve bakam\obj\Debug\ehliyeti ve bakam.pdb
