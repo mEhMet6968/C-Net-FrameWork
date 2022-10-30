@@ -1,0 +1,11 @@
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.Form1.resources
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.Properties.Resources.resources
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\bin\Debug\RandomSayitahminetme.exe.config
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\bin\Debug\RandomSayitahminetme.exe
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\bin\Debug\RandomSayitahminetme.pdb
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.exe
+C:\Users\Mehmet Emin\source\repos\RandomSayitahminetme\RandomSayitahminetme\obj\Debug\RandomSayitahminetme.pdb
