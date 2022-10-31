@@ -1,0 +1,11 @@
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\bin\Debug\31.10.2022.exe.config
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\bin\Debug\31.10.2022.exe
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\bin\Debug\31.10.2022.pdb
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\_31._10._2022.Form1.resources
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\_31._10._2022.Properties.Resources.resources
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.exe
+C:\Users\Mehmet Emin\source\repos\31.10.2022\31.10.2022\obj\Debug\31.10.2022.pdb
