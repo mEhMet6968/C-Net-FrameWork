@@ -1,0 +1,11 @@
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.csproj.AssemblyReference.cache
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.Form1.resources
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.Properties.Resources.resources
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.csproj.GenerateResource.cache
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\bin\Debug\SaatlikElektirikMasrafı.exe.config
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\bin\Debug\SaatlikElektirikMasrafı.exe
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\bin\Debug\SaatlikElektirikMasrafı.pdb
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.exe
+C:\Users\Mehmet Emin\source\repos\SaatlikElektirikMasrafı\SaatlikElektirikMasrafı\obj\Debug\SaatlikElektirikMasrafı.pdb
